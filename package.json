@@ -1,0 +1,17 @@
+{
+  "name": "primer-api-rest-2",
+  "version": "1.0.0",
+  "description": "Primer API REST creada en Bootcamps 2.0 - React+Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Billordo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
